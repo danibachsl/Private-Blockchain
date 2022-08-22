@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/danibachsl/Private-Blockchain/issues"
   },
-  "homepage": "https://github.com/danibachsl/Private-Blockchain#readme"
+  "homepage": "https://github.com/danibachsl/Private-Blockchain#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "fs": "^0.0.1-security"
+  }
 }
