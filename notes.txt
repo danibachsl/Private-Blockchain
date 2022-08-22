@@ -1,0 +1,15 @@
+{
+    "hash": "000000000000e198e04b0759cfecd59a95604cc551db9ad3b12a290375a95419",
+    "confirmations": 1,
+    "strippedsize": 35904,
+    "size": 50974,
+    "weight": 158686,
+    "height": 1325438,
+    "version": 536870912,
+    "versionHex": "20000000",
+    "merkleroot": "1ba2204e76ed33d9133b4edc43519efd7d6b23fd135a0b8758cc4e2caaddc789",
+    "body": [
+    ],
+    "time": 1529001822,
+    "previousblockhash": "00000000af61e2a9b09936dad3f5f213a8f659c5845d142b71894b4d5e5e17da"
+  }

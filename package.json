@@ -1,0 +1,22 @@
+{
+  "name": "private_blockchain",
+  "version": "1.0.0",
+  "description": "my own first private blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danibachsl/Private-Blockchain.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Daniel Bachs Lobo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danibachsl/Private-Blockchain/issues"
+  },
+  "homepage": "https://github.com/danibachsl/Private-Blockchain#readme"
+}
